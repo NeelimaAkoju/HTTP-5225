@@ -22,10 +22,11 @@
             </ul>';
     ?>
     <?php
-        echo '<img src="https://placehold.co/600x400" alt="PHP test">';
+        echo '<img src="https://tacklebullying.ie/wp-content/uploads/2021/01/app_yolo.png" alt="Image test">';
     ?>
-    <img src="<?php echo 'https://placehold.co/600x400'; ?>" alt="PHP test">
-
+    <br>
+    <img src="<?php echo 'https://tacklebullying.ie/wp-content/uploads/2021/01/app_yolo.png'; ?>" alt="Image test">
+    <br>
     <?php
         $fName = 'Neelima';
         $lName = 'Akoju';
